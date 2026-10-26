@@ -3,7 +3,7 @@
 
 > **Architecture status:** Proposed conceptual design for the group project. The microservices shown are recommendations, not claims that backend services are already implemented or deployed.
 
-![HealthCarePlus proposed microservices architecture](docs/images/healthcareplus-architecture_diagram.png)
+![HealthCarePlus proposed microservices architecture](docs/images/healthcareplus-architecture.png)
 
 ## 1. Project Overview
 
